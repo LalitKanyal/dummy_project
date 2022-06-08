@@ -1,3 +1,3 @@
 <script>
-document.getElementById("greetings").innerHTML = "Well Hello to you.."
+document.getElementById("greetings").innerHTML = "Well Hello to you..";
 </script>
